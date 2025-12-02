@@ -6,9 +6,9 @@ Every project I work on is designed to help people grow—with clearer habits, d
 
 ⸻
 
-#🚀 What I’m Building
+# 🚀 What I’m Building
 
-##Follo — Spiritual Rhythms & Bible Engagement
+## Follo — Spiritual Rhythms & Bible Engagement
 
 App Store: https://apps.apple.com/us/app/follo-spiritual-disciplines/id6746379822
 
@@ -26,7 +26,7 @@ Follo is the spiritual formation companion I always wished existed.
 
 ⸻
 
-##Orbit — Intentional Connections
+## Orbit — Intentional Connections
 
 TestFlight: https://testflight.apple.com/join/BRFvdeUP
 
@@ -41,7 +41,7 @@ Core Concepts:
 
 ⸻
 
-##Repen (Web + iOS) — Audio-First Notes & AI Agents
+## Repen (Web + iOS) — Audio-First Notes & AI Agents
 
 Repen transforms voice notes into structured, searchable meaning.
 It’s ideal for sermons, meetings, personal reflections, or any moment where recording is faster than typing.
@@ -56,7 +56,7 @@ Repen helps you actually use the content you record.
 
 ⸻
 
-##EMBR Framework — Discipleship Architecture
+## EMBR Framework — Discipleship Architecture
 
 A spiritual formation model built around four movements:
 Encounter, Mentor, Build, Renew.
@@ -74,7 +74,7 @@ EMBR isn’t an app—it’s the discipleship framework informing my spiritual f
 
 ⸻
 
-##💬 Ask Me About
+## 💬 Ask Me About
 	•	Designing digital tools for spiritual formation
 	•	Audio-based capture + transcription pipelines
 	•	AI agents for summarization and data extraction
@@ -84,13 +84,13 @@ EMBR isn’t an app—it’s the discipleship framework informing my spiritual f
 
 ⸻
 
-##📫 Contact
+## 📫 Contact
 
 Email: 8020ui@gmail.com
 
 ⸻
 
-##⚡ Fun Fact
+## ⚡ Fun Fact
 
 If it helps people grow spiritually, think more clearly, or connect more intentionally—I’m already building it.
 
