@@ -1,36 +1,97 @@
-# Hi there, I'm Jason 👋
+Hi there, I’m Jason 👋
 
-Welcome to my GitHub! I'm passionate about empowering and guiding others towards their full potential through **education**, **technological solutions**, and **spiritual growth**. Here you'll find my work on projects ranging from educational tools to spiritual journey apps.
+I build digital tools for spiritual formation and intentional living.
+My philosophy is simple: learn by building and shipping.
+Every project I work on is designed to help people grow—with clearer habits, deeper reflection, better connection, and more meaningful rhythms.
 
-## 🚀 What I'm Working On
+⸻
 
-### 1. **Steeple Framework**
-   - **Description:** A data-driven discipleship platform designed to partner with churches, helping them unlock the next growth steps for their members.
-   - **Focus:** No step left behind. We aim to put churches in a flow state of discipleship by connecting people to the right shepherds and guiding them forward in their spiritual journey.
+#🚀 What I’m Building
 
-### 2. **Repruv**
-   - **Description:** A habit tracker for Christianity, guiding users through personalized Bible reading plans and encouraging new spiritual habits.
-   - **Key Features:**
-     - Seamless Bible reading experience.
-     - Progress tracking and analytics to help users stay on course.
-     - Future updates: Plan sharing features for individual or joint completion with friends.
+##Follo — Spiritual Rhythms & Bible Engagement
 
-### 3. **Educational Consulting & Tools**
-   - **Focus:** Developing professional development content and tools for K-12 education leaders. My current projects include dashboards and strategies that empower educators to make data-informed decisions.
+App Store: https://apps.apple.com/us/app/follo-spiritual-disciplines/id6746379822
 
-## 🌱 What I'm Learning
-- **Web Development:** Continuously improving my React and Node.js skills, especially as I build more complex features for my projects.
-- **Data Analytics:** Leveraging data to drive insights and actions, especially in educational and spiritual growth contexts.
-- **Project Management:** Finding the balance between agility and thorough planning, particularly in the context of software development and educational consulting.
+Follo helps people cultivate Scripture, prayer, and reflection as daily rhythms—not checklists.
+It integrates spiritual practices, Bible reading plans, prayer prompts, and reflection tools into a calm, fluid mobile experience.
 
-## 💬 Ask Me About
-- Discipleship strategies and tools for churches.
-- Building habit-forming apps that guide spiritual growth.
-- Educational consulting for K-12 administrators and teachers.
-- Data-driven decision-making in education and spiritual contexts.
+Key Features:
+	•	Bible reading engine + multi-stream reading plans
+	•	Daily practices across Scripture, prayer, and reflection
+	•	AI-generated devotionals from user notes
+	•	Rule of Life framework (daily/weekly/monthly rhythms)
+	•	Smooth, iOS-inspired animations and UI
 
-## 📫 How to Reach Me
-- **Email:** 8020ui@gmail.com
+Follo is the spiritual formation companion I always wished existed.
 
-## ⚡ Fun Fact
-I'm a big fan of structuring my life around data-informed decisions, whether in personal growth, spiritual development, or professional consulting. I also love exploring innovative ways to make Bible reading engaging and meaningful for all, especially for those new to their faith.
+⸻
+
+##Orbit — Intentional Connections
+
+TestFlight: https://testflight.apple.com/join/BRFvdeUP
+
+Orbit is a lightweight, intentional personal relationship manager.
+It helps you keep track of the people who matter most, build meaningful habits of connection, and stay present in your relationships.
+
+Core Concepts:
+	•	Relationship cadence reminders
+	•	Tags, notes, and meaningful categorization
+	•	A calm personal dashboard for your “circle”
+	•	Built for real relational rhythms—not CRM bloat
+
+⸻
+
+##Repen (Web + iOS) — Audio-First Notes & AI Agents
+
+Repen transforms voice notes into structured, searchable meaning.
+It’s ideal for sermons, meetings, personal reflections, or any moment where recording is faster than typing.
+
+What I’m building:
+	•	Fast, accurate transcription (Whisper/Deepgram/xAI)
+	•	AI agents that extract summaries, tasks, insights, action items
+	•	Block-based note editor for organizing extracted data
+	•	A mobile version built with Expo for quick capture anywhere
+
+Repen helps you actually use the content you record.
+
+⸻
+
+##EMBR Framework — Discipleship Architecture
+
+A spiritual formation model built around four movements:
+Encounter, Mentor, Build, Renew.
+
+EMBR isn’t an app—it’s the discipleship framework informing my spiritual formation design philosophy across Follo and other tools.
+
+⸻
+
+##🧰 Tech I Work With
+	•	React • React Native (Expo) • Next.js
+	•	Convex • Supabase • Firebase • Firestore • 
+	•	Python for automation + data processing
+	•	AI systems: Cursor, AntiGravity, OpenAI, xAI, Whisper, Deepgram
+	•	UI/animation tools: Skia, Reanimated, WebGpu
+
+⸻
+
+##💬 Ask Me About
+	•	Designing digital tools for spiritual formation
+	•	Audio-based capture + transcription pipelines
+	•	AI agents for summarization and data extraction
+	•	Bible reading engines + verse-reference systems
+	•	Relationship management and intentional living design
+	•	Building calm, fluid mobile experiences
+
+⸻
+
+##📫 Contact
+
+Email: 8020ui@gmail.com
+
+⸻
+
+##⚡ Fun Fact
+
+If it helps people grow spiritually, think more clearly, or connect more intentionally—I’m already building it.
+
+⸻
