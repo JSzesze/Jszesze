@@ -1,91 +1,85 @@
-# Hi there, I’m Jason 👋
+# Hey there, I’m Jason 👋
 
-I build **digital tools for spiritual formation and intentional living**.  
-My philosophy is simple: **learn by building and shipping**.  
-Every project I work on helps people grow—with clearer habits, deeper reflection, better connection, and more meaningful rhythms.
+I create simple, purposeful tools for spiritual formation, relational health, and everyday clarity.
 
----
-
-# 🚀 What I’m Building
-
-## **Follo — Spiritual Rhythms & Bible Engagement**
-**App Store:** https://apps.apple.com/us/app/follo-spiritual-disciplines/id6746379822
-
-Follo helps people cultivate Scripture, prayer, and reflection as daily rhythms—not checklists.  
-It integrates spiritual practices, Bible reading plans, prayer prompts, and reflection tools into a calm, fluid mobile experience.
-
-**Key Features:**
-- Bible reading engine + multi-stream reading plans  
-- Daily practices across Scripture, prayer, and reflection  
-- AI-generated devotionals from user notes  
-- Rule of Life framework (daily/weekly/monthly rhythms)  
-- Smooth, iOS-inspired animations and UI  
-
-Follo is the spiritual formation companion I always wished existed.
+I’m convinced the best way to learn is to build something real and ship it fast—so that’s what I do. Every project is born out of something I wish existed for my own walk with Jesus or my own relationships.
 
 ---
 
-## **Orbit — Intentional Connections**
-**TestFlight:** https://testflight.apple.com/join/BRFvdeUP
+# 🚀 Stuff I’m working on right now
 
-Orbit is a lightweight, intentional personal relationship manager.  
-It helps you keep track of the people who matter most, build meaningful habits of connection, and stay present in your relationships.
+## **Follo — Your gentle companion for spiritual rhythms**  
+**→ App Store:** https://apps.apple.com/us/app/follo-spiritual-disciplines/id6746379822
 
-**Core Concepts:**
-- Relationship cadence reminders  
-- Tags, notes, and meaningful categorization  
-- A calm personal dashboard for your “circle”  
-- Built for real relational rhythms—not CRM bloat  
+Follo is the app I always wanted on my homescreen: a calm place for Scripture, prayer, and reflection that feels more like a daily rhythm than another to-do list.
 
----
+**What’s inside:**
+- Beautiful Bible reader with flexible reading plans (straight through, chronological, or multi-stream)
+- Daily prompts for prayer and reflection that actually feel human
+- AI devotionals written from your own highlights and notes
+- A “Rule of Life” builder so your habits match the life you want to live
+- Butter-smooth animations because little delights matter
 
-## **Repen (Web + iOS) — Audio-First Notes & AI Agents**
-
-Repen transforms voice notes into structured, searchable meaning.  
-It’s ideal for sermons, meetings, personal reflections, or any moment where recording is faster than typing.
-
-**What I’m building:**
-- Fast, accurate transcription (Whisper, Deepgram, xAI)  
-- AI agents that extract summaries, tasks, insights, action items  
-- Block-based note editor for organizing extracted data  
-- A mobile version built with Expo for quick capture anywhere  
-
-Repen helps you actually *use* the content you record.
+It’s the spiritual formation sidekick I spent years looking for… so I built it.
 
 ---
 
-## **EMBR Framework — Discipleship Architecture**
+## **Orbit — Staying close to the people who matter**  
+**→ Join the beta:** https://testflight.apple.com/join/BRFvdeUP
 
-A spiritual formation model built around four movements:  
-**Encounter, Mentor, Build, Renew.**
+Orbit is the anti-CRM. It’s for normal humans who just want to love their friends and family well.
 
-EMBR isn’t an app—it’s the discipleship framework informing my spiritual formation design philosophy across Follo and other tools.
+Think: “I haven’t talked to Mom in three weeks” or “When did I last grab coffee with Alex?” — Orbit quietly reminds you at the cadence that feels right, without ever feeling like work.
 
----
-
-## 🧰 **Tech I Work With**
-- React • React Native (Expo) • Next.js  
-- Convex • Supabase • Firebase • Firestore  
-- Python for automation + data processing  
-- AI systems: Cursor, AntiGravity, OpenAI, xAI, Whisper, Deepgram  
-- UI/animation tools: Skia, Reanimated, WebGPU  
+Super simple. Super calm. No feature bloat. Just relationships.
 
 ---
 
-## 💬 **Ask Me About**
-- Designing digital tools for spiritual formation  
-- Audio-based capture + transcription pipelines  
-- AI agents for summarization and data extraction  
-- Bible reading engines + verse-reference systems  
-- Relationship management and intentional living design  
-- Building calm, fluid mobile experiences  
+## **Repen — Turn your voice into usable insight**  
+*(Web + iOS, coming soon)*
+
+I preach, teach, and think out loud a lot. Typing slows me down. Repen lets me hit record and actually do something with what I said.
+
+- Lightning-fast transcription (Whisper + Deepgram + some xAI magic)
+- Smart AI that pulls out summaries, tasks, quotes, and insights automatically
+- A clean block editor to reshape everything afterward
+- Mobile-first with Expo so I can capture ideas the moment they hit
+
+It’s basically my second brain for anything spoken.
 
 ---
 
-## 📫 **Contact**
-**Email:** 8020ui@gmail.com
+## **EMBR — The framework behind it all**
+
+**Encounter → Mentor → Build → Renew**  
+Four movements that shape how I think about discipleship—and how I design every tool. (Not an app, just the DNA running through everything I make.)
 
 ---
 
-## ⚡ **Fun Fact**
-If it helps people grow spiritually, think more clearly, or connect more intentionally... I’m already building it.
+# 🛠 Tech I live in
+React Native (Expo), Next.js, Convex, Supabase, a little Python when I need to glue things together, and way too much time playing with AI (Cursor, OpenAI, xAI, etc.).  
+I’m also mildly obsessed with smooth animations—Reanimated and Skia are my happy place.
+
+---
+
+# 💬 Let’s talk about
+- Building apps that feel peaceful instead of noisy  
+- Spiritual formation in a distracted world  
+- Turning voice notes into something actually useful  
+- Bible tech (verse parsing, reading plans, you name it)  
+- Designing for real relationships instead of “networking”  
+- Making mobile interfaces that don’t exhaust you  
+
+I love geeking out over this stuff.
+
+---
+
+# 📮 Say hi  
+**jason@follo.dev** or **8020ui@gmail.com**
+
+---
+
+# ⚡ One last thing  
+If it helps someone read Scripture more, pray more honestly, think more clearly, or love people better… I’m probably already working on it.
+
+Thanks for stopping by ❤️
